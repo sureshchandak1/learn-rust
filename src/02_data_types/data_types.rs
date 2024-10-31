@@ -5,6 +5,9 @@ fn main() {
     println!("This value stored in num2 is {}", num2);
 
     let num3: i8 = 100;
+    let num4: f32 = 3.14;
+    let isSuccess: bool = true;
+    let ch: char = 'a';
 
     let mut num4: i16 = 200; // allow to reassign (Mutable variable)
     println!("This value stored in num4 is {}", num4);
